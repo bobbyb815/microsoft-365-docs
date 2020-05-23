@@ -22,9 +22,8 @@ Please pay in GBP only and reference invoice number(s) on your payment remittanc
 
 ## Electronic Funds Transfer
 
-**Bank:** Citibank, London  
-**SWIFT Code:** CITIGB2L  
-**IBAN:** GB41CITI18500812207605  
-**SORT Code:** 185008  
-**Account Number:** 12207605  
-**Account Name:** MICROSOFT  
+**Bank:** Clear Junction Limited  
+**SWIFT Code:** CLJUGB21  
+**IBAN:** GB63CLJU00997180889611  
+
+ 
